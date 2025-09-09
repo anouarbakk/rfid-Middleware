@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfidMid.core", "rfidMid.core\rfidMid.core.csproj", "{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfidMid.infrastructure", "rfidMid.infrastructure\rfidMid.infrastructure.csproj", "{B5E7E328-481E-4B6F-96C8-D1E369304FF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfidMid.client", "rfidMid.client\rfidMid.client.csproj", "{AEB97DF6-1326-450F-8E12-C323FADDD1B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rfidMid.test", "rfidMid.test\rfidMid.test.csproj", "{5435E8C6-B9B5-45CD-B7E8-46996A566051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E7E328-481E-4B6F-96C8-D1E369304FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E7E328-481E-4B6F-96C8-D1E369304FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E7E328-481E-4B6F-96C8-D1E369304FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E7E328-481E-4B6F-96C8-D1E369304FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB97DF6-1326-450F-8E12-C323FADDD1B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB97DF6-1326-450F-8E12-C323FADDD1B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB97DF6-1326-450F-8E12-C323FADDD1B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB97DF6-1326-450F-8E12-C323FADDD1B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5435E8C6-B9B5-45CD-B7E8-46996A566051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5435E8C6-B9B5-45CD-B7E8-46996A566051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5435E8C6-B9B5-45CD-B7E8-46996A566051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5435E8C6-B9B5-45CD-B7E8-46996A566051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82669798-777E-4DFE-8B46-0DA0ECE8A838}
+	EndGlobalSection
+EndGlobal
