@@ -6,13 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\rfidMid.core\rfidMid.core.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="Adapters\" />
-    <Folder Include="simulator\" />
-  </ItemGroup>
-
 </Project>

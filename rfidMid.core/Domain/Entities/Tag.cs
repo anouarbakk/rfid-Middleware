@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace rfidMid.core.Domain.Entities
 {
-    internal class Tag
+    public class Tag
     {
+        public string Id { get; set; }=string.Empty;
+        public DateTime Timestamp { get; set; }=DateTime.Now;
+
     }
 }

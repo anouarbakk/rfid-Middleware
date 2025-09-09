@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace rfidMid.core.Domain.Interfaces
 {
-    internal class TagRepository
+    internal class ITagRepository
     {
     }
 }
