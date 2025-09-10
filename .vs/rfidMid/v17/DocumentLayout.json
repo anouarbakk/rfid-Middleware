@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\PCS\\source\\repos\\rfidMid\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.infrastructure\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|solutionrelative:rfidmid.infrastructure\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\interfaces\\itagscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\interfaces\\itagscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\interfaces\\itagreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\interfaces\\itagreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.infrastructure\\rfidmid.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|solutionrelative:rfidmid.infrastructure\\rfidmid.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\rfidmid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\rfidmid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.infrastructure\\persistense\\sqlitetagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5E7E328-481E-4B6F-96C8-D1E369304FF7}|rfidMid.infrastructure\\rfidMid.infrastructure.csproj|solutionrelative:rfidmid.infrastructure\\persistense\\sqlitetagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\domain\\interfaces\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\rfidmid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|solutionrelative:rfidmid.core\\rfidmid.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A627BBD6-4302-46B6-B35B-BD279F4AFE7D}|rfidMid.core\\rfidMid.core.csproj|c:\\users\\pcs\\source\\repos\\rfidmid\\rfidmid.core\\app\\services\\syncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,12 +70,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "rfidMid.infrastructure",
+              "DocumentIndex": 0,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\simulator\\Simulator.cs",
+              "RelativeDocumentMoniker": "rfidMid.infrastructure\\simulator\\Simulator.cs",
+              "ToolTip": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\simulator\\Simulator.cs",
+              "RelativeToolTip": "rfidMid.infrastructure\\simulator\\Simulator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T03:18:51.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "rfidMid.infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\rfidMid.infrastructure.csproj",
               "RelativeDocumentMoniker": "rfidMid.infrastructure\\rfidMid.infrastructure.csproj",
               "ToolTip": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\rfidMid.infrastructure.csproj",
@@ -83,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "SqLiteTagRepository.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\Persistense\\SqLiteTagRepository.cs",
               "RelativeDocumentMoniker": "rfidMid.infrastructure\\Persistense\\SqLiteTagRepository.cs",
@@ -96,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DeduplicationService.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\App\\Services\\DeduplicationService.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\App\\Services\\DeduplicationService.cs",
@@ -109,19 +126,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ITagscanner.cs",
-              "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Interfaces\\ITagscanner.cs",
-              "RelativeDocumentMoniker": "rfidMid.core\\Domain\\Interfaces\\ITagscanner.cs",
-              "ToolTip": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Interfaces\\ITagscanner.cs",
-              "RelativeToolTip": "rfidMid.core\\Domain\\Interfaces\\ITagscanner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "ITagReader.cs",
+              "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Interfaces\\ITagReader.cs",
+              "RelativeDocumentMoniker": "rfidMid.core\\Domain\\Interfaces\\ITagReader.cs",
+              "ToolTip": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Interfaces\\ITagReader.cs",
+              "RelativeToolTip": "rfidMid.core\\Domain\\Interfaces\\ITagReader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T05:13:28.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ITagRepository.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Interfaces\\ITagRepository.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\Domain\\Interfaces\\ITagRepository.cs",
@@ -129,12 +146,11 @@
               "RelativeToolTip": "rfidMid.core\\Domain\\Interfaces\\ITagRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T05:13:19.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T05:13:19.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Tag.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Domain\\Entities\\Tag.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\Domain\\Entities\\Tag.cs",
@@ -147,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "rfidMid.core.csproj",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\rfidMid.core.csproj",
               "RelativeDocumentMoniker": "rfidMid.core\\rfidMid.core.csproj",
@@ -160,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ScanHandler.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\App\\Services\\ScanHandler.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\App\\Services\\ScanHandler.cs",
@@ -172,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SyncService.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\App\\Services\\SyncService.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\App\\Services\\SyncService.cs",
@@ -184,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "rfidMid.client.csproj",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.client\\rfidMid.client.csproj",
               "RelativeDocumentMoniker": "rfidMid.client\\rfidMid.client.csproj",
@@ -197,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.test\\UnitTest1.cs",
               "RelativeDocumentMoniker": "rfidMid.test\\UnitTest1.cs",
@@ -209,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.client\\Program.cs",
               "RelativeDocumentMoniker": "rfidMid.client\\Program.cs",
@@ -221,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.infrastructure\\Class1.cs",
               "RelativeDocumentMoniker": "rfidMid.infrastructure\\Class1.cs",
@@ -233,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\PCS\\source\\repos\\rfidMid\\rfidMid.core\\Class1.cs",
               "RelativeDocumentMoniker": "rfidMid.core\\Class1.cs",

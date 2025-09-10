@@ -2,9 +2,11 @@
 
 namespace rfidMid.core.Domain.Interfaces
 {
-    public interface ITagscanner
+    public interface ITagReader
     {
-        event EventHandler<Tag> TagScan;
+        event EventHandler<Tag> TagRead;
         Task<Tag> StartAsync(CancellationToken cancellationToken);
+
+
     }
 }

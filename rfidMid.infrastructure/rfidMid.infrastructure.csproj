@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="Adapters\" />
-    <Folder Include="simulator\" />
   </ItemGroup>
 
 </Project>
